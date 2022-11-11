@@ -30,7 +30,8 @@ twitter_username:
 github_username:  ampeck-coder
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: y7kim/agency-jekyll-theme
 plugins:
   - jekyll-feed
 
