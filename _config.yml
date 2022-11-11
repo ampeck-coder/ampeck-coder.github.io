@@ -31,7 +31,7 @@ github_username:  ampeck-coder
 
 # Build settings
 # theme: minima
-remote_theme: y7kim/agency-jekyll-theme
+remote_theme: agency-jekyll-theme
 plugins:
   - jekyll-feed
 
